@@ -3,3 +3,11 @@
   padding: 0;
   margin: 0;
 }
+
+@media (max-width: 400px) {
+  .header__links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}

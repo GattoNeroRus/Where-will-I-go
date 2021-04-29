@@ -1,5 +1,4 @@
 .intro {
-  font-family: 'NotoSans', Arial, sans-serif;
   max-width: 1024px;
   padding: 63px 0 106px;
   margin: 0 auto;
@@ -10,6 +9,6 @@
   .intro {
     flex-direction: column;
     margin: 0;
-    padding: 63px 0;
+    padding: 45px 0;
   }
 }
